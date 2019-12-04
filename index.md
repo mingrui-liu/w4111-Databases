@@ -129,6 +129,8 @@ notebook and/or PDF of a PowerPoint presentation.
     - [Indexes](Lectures/Lecture_8/ch14.pdf)
     - [Query Processing](Lectures/Lecture_8/ch15.pdf)
     - [Query Optimization](Lectures/Lecture_8/ch16.pdf)
+- Lecture 9:
+    - [Query Processing and Transactions](Lectures/Lecture_9/Module_II__query_processing_transactions_recovery_v2.pdf)
 - Makeup Lectures:
     - Jupyter Notebooks:
         - [Part 1](Lectures/Makeup_Lectures/w4111-Makeup-F2019-RelationalModelREST-Part-1.ipynb)
@@ -136,3 +138,5 @@ notebook and/or PDF of a PowerPoint presentation.
     - HTML:
         - [Part 1](Lectures/Makeup_Lectures/w4111-Makeup-F2019-RelationalModelREST-Part-1.html)
         - [Part 2](Lectures/Makeup_Lectures/w4111-Makeup-F2019-RelationalModelREST-Part-2.html)
+- 15_Nov_Makeup_No_SQL:
+    - [Slides](Lectures/Makeup_Lecture_15_Nov/no_sql_2b.pdf)
